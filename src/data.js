@@ -47,3 +47,21 @@ export const compareDate = [{
         icons: ["FaRegCheckCircle", "FaRegCheckCircle"]
     }
 ];
+
+export const cardData = [{
+        plan: "Free Tier",
+        price: "€ 0",
+        license: "1 User",
+        period: "30 Days",
+        button: "Try Now",
+        chosen: false,
+    },
+    {
+        plan: "Professional",
+        price: "€ 99",
+        license: "10 Users",
+        period: "1 Year",
+        button: "Choose plan",
+        chosen: true
+    }
+];
