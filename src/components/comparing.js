@@ -1,5 +1,5 @@
 import React from "react";
-import { compareDate } from "./data";
+import { compareDate } from "../data";
 import { Compare } from "./compare";
 
 export const Comparing = () => {
